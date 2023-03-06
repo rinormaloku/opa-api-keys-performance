@@ -13,7 +13,7 @@ API Keys loaded into memory.
 
 Allowed count:  50
 Rejected count:  50
-2023/03/03 15:54:36 Avg evaluation took: 9.803µs
+2023/03/06 14:27:17 Avg evaluation took: 10.577µs
 ```
 
 ## Reproduce the test
@@ -33,3 +33,6 @@ bundle/bundle.sh
 ```
 
 And then you can run the program as shown at the top of the article.
+
+Alternatively, you can run the http server to host the bundle.
+
